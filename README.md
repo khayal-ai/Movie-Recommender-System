@@ -13,4 +13,15 @@ This project demonstrates:
 - Basic recommendation system logic
   
 ---
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+
+
+ 
+
+
+
 
