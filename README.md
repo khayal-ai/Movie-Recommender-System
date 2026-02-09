@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System using Machine Learning m 🍿🎬
+# 🎬 Movie Recommendation System using Machine Learning 🍿🎬
 
 ## Overview
 This project implements a **content-based movie recommendation system** using **Machine Learning (K-Nearest Neighbors)**.  
